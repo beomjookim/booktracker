@@ -54,7 +54,7 @@
    ```
 
 5. **API 엔드포인트**
-6. 
+
 * GET /api/books: 모든 책 조회
 * POST /api/books: 책 추가
 * PUT /api/books/{id}: 책 정보 수정
