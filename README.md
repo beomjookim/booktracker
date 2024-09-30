@@ -30,32 +30,30 @@
 - **버전 관리**: Git을 통한 체계적인 버전 관리
 
 
+### 🌐 배포 링크
+- [BookTracker 배포 링크](https://your-heroku-url.herokuapp.com)  
+
 
 ### 🛠 설치 및 실행 방법
-
 1. **레포지토리 클론**:
    ```bash
    git clone https://github.com/beomjookim/booktracker.git
    ```
-
 2. **프로젝트 디렉토리로 이동**
    ```bash
    cd booktracker
    ```
-   
 3. **프로젝트 빌드**
    ```bash
    ./gradlew build
    ```
-
 4. **앱 실행**
    ```bash
    ./gradlew bootRun
    ```
-
 5. **API 엔드포인트**
-
 * GET /api/books: 모든 책 조회
 * POST /api/books: 책 추가
 * PUT /api/books/{id}: 책 정보 수정
 * DELETE /api/books/{id}: 책 삭제
+
