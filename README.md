@@ -35,7 +35,7 @@
 
 1. **레포지토리 클론**:
    ```bash
-   git clone https://github.com/username/booktracker.git
+   git clone https://github.com/beomjookim/booktracker.git
    ```
 
 2. **프로젝트 디렉토리로 이동**
