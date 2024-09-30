@@ -31,7 +31,7 @@
 
 
 ### 🌐 배포 링크
-- [BookTracker 배포 링크](https://your-heroku-url.herokuapp.com)  
+- [https://booktracker.herokuapp.com](https://booktracker.herokuapp.com)  
 
 
 ### 🛠 설치 및 실행 방법
